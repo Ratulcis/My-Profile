@@ -1,0 +1,126 @@
+*{
+	margin:0px;
+	padding:0px;
+	
+}
+body{
+	background-color:gray;
+	
+}
+
+.container{
+	background-color:orange;
+	max-width:1000px;
+	margin:0 auto;
+	border:solid black 1px;
+	
+}
+.profile{
+	width:150px;
+	height:150ppx;
+	padding:20px;
+	float:left;
+	
+	
+}
+.profile-name{
+	float:left;
+	margin-top:70px;
+}
+
+.about-list{
+	padding:10px;
+}
+
+.about-list ul li{
+	
+	float:right;
+	color:black;
+	list-style-type:none;
+	margin:10px;
+	
+}
+
+
+.about-list li:hover{
+	color:red;
+	
+}
+.div-clear{
+	clear:both;
+	
+}
+hr{
+	width:100%;
+	margin:10px auto;
+	border:solid gray 2px;
+	box-sizing:border-box;
+}
+h3{
+	color:white;
+
+}
+
+#service{
+		padding:20px;
+		
+	}
+.service1{
+	
+}
+
+.div-left{
+	float:left;
+}
+.div-right{
+	float:right;
+}
+.horijontal{
+	border-bottom:none;
+	border:solid black 1px;
+	margin-top:20px;
+}
+
+#image{
+	
+	
+}
+.image1{
+	float:left;
+	
+	
+}
+
+.image2{
+	float:right;
+	
+}
+.body-image{
+	
+	max-width:500px;
+	
+	margin-left:0px;
+	margin-top:0px;
+}
+.footer-content{
+	background-color:black;
+	height:50px;
+	text-align:center;
+	padding:50px;
+	margin-top:20px;
+	
+}
+.footer-content a{
+	color:white;
+	text-decoration:none;
+	margin:5px;
+	
+}
+.footer-content p{
+	color:white;
+	margin-top:20px;
+}
+.footer-content a:hover{
+	color:red;
+	
+}
